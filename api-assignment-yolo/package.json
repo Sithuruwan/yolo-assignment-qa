@@ -1,0 +1,19 @@
+{
+  "name": "api-assignment-yolo",
+  "version": "1.0.0",
+  "description": "API test automation framework for YOLO Group",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec './cypress/e2e/test'"
+  },
+
+  "author": "Anuradha Walalgoda",
+  "license": "ISC",
+
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.33.1",
+    "cypress": "^10.10.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}

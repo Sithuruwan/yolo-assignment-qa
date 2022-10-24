@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 24 10:26:06 IST 2022","Mon Oct 24 10:26:06 IST 2022","460","","API Test - POST, GET and DELETE","","","","DELETE -- Successful DELETE request",""
+"passed","Mon Oct 24 10:26:05 IST 2022","Mon Oct 24 10:26:06 IST 2022","620","","API Test - POST, GET and DELETE","","","","GET -- Successful GET request",""
+"passed","Mon Oct 24 10:26:04 IST 2022","Mon Oct 24 10:26:05 IST 2022","1140","","API Test - POST, GET and DELETE","","","","POST -- Successful POST request",""

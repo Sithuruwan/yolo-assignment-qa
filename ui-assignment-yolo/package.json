@@ -1,0 +1,16 @@
+{
+  "name": "ui-assignment-yolo",
+  "version": "1.0.0",
+  "description": "UI automation framework for YOLO Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec './cypress/e2e'"
+  },
+  "author": "Anuradha Walalgoda",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.33.1",
+    "cypress": "^10.10.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
